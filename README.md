@@ -4,7 +4,9 @@
 ## winodw VS code C語言安裝參考網址
 
 https://junyou.tw/vscode-c/
+
 https://alexmav04.github.io/computer/windows-with-mingw-w64/
+
 https://blog.darkthread.net/blog/write-c-with-vscode/
 
 ## [Linux VS code C語言安裝參考網址](https://zhuanlan.zhihu.com/p/60266397)

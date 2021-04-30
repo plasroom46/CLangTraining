@@ -26,6 +26,7 @@
   ],
   "clang.completion.enable": true,
   "files.associations": {
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "limits": "c"
   }
 }
